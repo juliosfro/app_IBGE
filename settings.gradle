@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "atividade_reflexiva_julio_oliveira_neto_09018650"
